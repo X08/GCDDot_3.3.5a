@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: GCD Dot
+## Notes: A tiny movable dot that pulses a feathered glow the instant your GCD ends.
+## Author: You
+## Version: 1.0
+## SavedVariables: GCDDotDB
+
+GCDDot.lua
