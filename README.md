@@ -1,3 +1,5 @@
+[Also check out my other addons!](https://github.com/X08/X08_WoW_3.3.5a)
+
 ### [GCDDot](https://github.com/X08/GCDDot_3.3.5a)
 General Cooldown Reminder for smoother casting for WoW 3.3.5a.
 > Shows a visual reminder of the global cooldown so you can time your next cast more smoothly.
