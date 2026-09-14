@@ -1,8 +1,8 @@
 ## Interface: 30300
-## Title: GCD Dot
-## Notes: A tiny movable dot that pulses a feathered glow the instant your GCD ends.
-## Author: X08//Dream
-## Version: 1.0
+## Title: GCDDot
+## Notes: A tiny movable dot with a circular pie-fill for your GCD and swing timer, plus a feathered glow flash.
+## Author: You
+## Version: 1.1
 ## SavedVariables: GCDDotDB
 
 GCDDot.lua
