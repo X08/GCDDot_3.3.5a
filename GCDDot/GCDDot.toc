@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: GCDDot
 ## Notes: A tiny movable dot with a circular pie-fill for your GCD and swing timer, plus a feathered glow flash.
-## Author: You
+## Author: X08
 ## Version: 1.1
 ## SavedVariables: GCDDotDB
 
